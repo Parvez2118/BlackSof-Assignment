@@ -1,12 +1,12 @@
 # BlackSof-Assignment
 
-Project Name
+**Project Name**
 
-Overview
+**Overview**
 
 This project is a user interface (UI) built using React, TypeScript, Bootstrap, and CSS. The UI is designed to be responsive, interactive, and scalable for future enhancements. This readme provides an overview of the project structure, installation steps, and basic usage instructions.
 
-Tech Stack
+**Tech Stack**
 
 React: A JavaScript library for building user interfaces.
 
@@ -16,7 +16,7 @@ Bootstrap: A CSS framework for developing responsive and mobile-first websites.
 
 CSS: Custom styles for additional UI design and adjustments.
 
-Features
+**Features**
 
 Responsive design using Bootstrap.
 
@@ -26,7 +26,7 @@ Strong typing with TypeScript for improved code quality and debugging.
 
 Clean and maintainable CSS for styling the application.
 
-Available Scripts
+**Available Scripts**
 
 In the project directory, you can run the following commands:
 
